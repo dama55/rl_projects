@@ -1,0 +1,22 @@
+# 仮想環境
+env/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# モデルチェックポイント
+my_ppo/checkpoints/
+
+# ログ
+my_ppo/logs/
+
+# データ
+my_ppo/data/
+
+# PPO-PyTorch
+PPO-PyTorch/
+
+# 一時的な環境ファイル
+*.log
+*.tmp
